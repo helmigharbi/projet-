@@ -1,0 +1,17 @@
+.MoviCard {
+    width: 30%;
+    max-width: 500px;
+    text-align: center;
+}
+.header {
+    height: 38%;
+}
+
+.btns-action {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 0.5rem;
+}

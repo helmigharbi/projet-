@@ -1,0 +1,8 @@
+.MoviList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.MoviList > * {
+    margin: 20px;
+}
